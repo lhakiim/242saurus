@@ -1,3 +1,21 @@
+lhakiim:
+  name: Luqmanul Hakim
+  title: CSUI Student
+  url: https://github.com/lhakiim
+  image_url: https://github.com/lhakiim.png
+  page: true
+  socials:
+    github: lhakiim
+
+abyasa05:
+  name: Muhammad Abyasa Pratama
+  title: CSUI Student
+  url: https://github.com/abyasa05
+  image_url: https://github.com/abyasa05.png
+  page: true
+  socials:
+    github: abyasa05
+
 yangshun:
   name: Yangshun Tay
   title: Front End Engineer @ Facebook
